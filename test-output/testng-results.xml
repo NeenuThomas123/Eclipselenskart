@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-07T15:47:02 IST" name="Default suite" finished-at="2024-09-07T15:49:26 IST" duration-ms="144200">
+    <groups>
+    </groups>
+    <test started-at="2024-09-07T15:47:02 IST" name="Default test" finished-at="2024-09-07T15:49:26 IST" duration-ms="144200">
+      <class name="Test.Searchtest">
+        <test-method is-config="true" signature="set()[pri:0, instance:Test.Searchtest@6069db50]" started-at="2024-09-07T15:47:02 IST" name="set" finished-at="2024-09-07T15:47:04 IST" duration-ms="1725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method is-config="true" signature="url()[pri:0, instance:Test.Searchtest@6069db50]" started-at="2024-09-07T15:47:04 IST" name="url" finished-at="2024-09-07T15:47:37 IST" duration-ms="32944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="test()[pri:0, instance:Test.Searchtest@6069db50]" started-at="2024-09-07T15:47:37 IST" name="test" finished-at="2024-09-07T15:49:26 IST" duration-ms="109493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Test.Searchtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
